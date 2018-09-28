@@ -25,7 +25,6 @@
  */
 package net.runelite.client.plugins.zulrah.phase;
 
-import static jdk.nashorn.internal.runtime.regexp.joni.Config.log;
 import net.runelite.api.NPC;
 import net.runelite.api.Point;
 import net.runelite.api.Prayer;
